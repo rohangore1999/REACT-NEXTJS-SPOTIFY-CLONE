@@ -12,7 +12,7 @@ function Login({ providers }) {
                 {/* for post picture */}
                 <meta property="og:title" content="" />
                 <meta property="og:type" content="" />
-                <meta property="og:image" content="/spotify-logo.png" />
+                <meta name="image" property="og:image" content="https://links.papareact.com/9xl" />
                 <meta name="twitter:card" content="summary_large_image" />
 
                 <meta property="og:description" content="" />
